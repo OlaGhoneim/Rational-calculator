@@ -1,14 +1,11 @@
 // Purpose: rational calculator
 // Author:Ola Ghoneim Hammad Ahmed Salama  (did the validation)
-// ID:	20231232
 // Email:olaghoneim38@gmail.com
 
 // Author:Mariem Refaey Abd El-manaf Ahmed (did the extraction from the input)
-//ID:20231163
 //Email:: refaeymariem@gmail.com
 
 // Author:Menna Mohamed Ashour Ali       (did the arthimitic operations)
-
 //Email:mm1881569@gmail.com
 
 //report for algorithm: https://docs.google.com/document/d/1Xz7D6-BQ4KpQGLRAWV4xzne0dcMpCBS3/edit
